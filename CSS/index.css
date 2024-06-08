@@ -49,3 +49,22 @@ a:hover {
     background-color: white;
     transform: scale(0.9);
 }
+
+#Principal{
+    content: "";
+    color: #f25a70;
+    text-align: center;
+    line-height: 30px;
+    font-size: 40px;
+    display: inline-block;
+    background-color: #3A4042;
+    height: 184px;
+    width: 627px;
+    margin-top: 105px;
+    margin-left: 91px;
+    box-shadow: 5px 5px 0px black;
+}
+
+#Botões {
+    display: flex;
+}
